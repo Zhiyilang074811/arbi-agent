@@ -7,14 +7,12 @@ AI-powered autonomous trading agent built on Arbitrum with x402 micropayment int
 - x402 protocol for micro-settlement of trading strategies
 - Real-time P&L tracking and portfolio management
 - Support for ARB, ETH, USDC pairs
-- CMC API integration for market data
 - Gas-optimized L2 execution
 
 ## Tech Stack
 - React 18 + Vite 5
 - Tailwind CSS
 - Arbitrum RPC
-- CMC API
 - x402 Payments
 - Viem/Wagmi
 
@@ -23,8 +21,11 @@ AI-powered autonomous trading agent built on Arbitrum with x402 micropayment int
 - [GitHub Repo](https://github.com/Zhiyilang074811/arbi-agent)
 
 ## Hackathons
-- **Competition**: [Arbitrum Online Buildathon](https://dorahacks.io/hackathon/arbitrum-online-buildathon)
-- **Competition**: [CMC API Hackathon](https://dorahacks.io/hackathon/coinmarketcap-api-202609) - Track: Markets and Trading Tools
+- **Competition**: [Arbitrum Open House Singapore Buildathon](https://www.hackquest.io/hackathons/Arbitrum-Open-House-Singapore-Online-Buildathon) - ✅ Registered
+  - Deadline: ~Oct 3, 2026 (18 days left)
+  - Prize Pool: \,000 USD
+  - Tracks: Overall Prize, Promising Products Track, Grants
+- **Competition**: [CMC API Hackathon](https://dorahacks.io/hackathon/coinmarketcap-api-202609) - Markets and Trading Tools
   - Deadline: 2026-10-01
 
 ## License
