@@ -1,0 +1,1 @@
+export default function Header() { return <div style={{ marginBottom: "2rem" }}><h1>ArbiAgent</h1><div style={{ display: "flex", gap: "0.5rem", marginTop: "0.75rem" }}><span className="tag">x402</span><span className="tag">Arbitrum</span><span className="tag">AI Agent</span><span className="tag">MCP</span></div></div>; }
